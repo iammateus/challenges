@@ -1,3 +1,7 @@
+# TODO: improve description of the problem
+# Being giving a number x print the sequence of numbers from 1 to x in a clockwise expading spiral from center.
+
+
 import math 
 
 #Any odd number with a natural square root { 9, 25, 81, 361}
